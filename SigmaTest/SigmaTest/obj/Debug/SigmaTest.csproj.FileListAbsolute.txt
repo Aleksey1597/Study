@@ -1,0 +1,6 @@
+E:\Практикуюсь\SigmaTest\SigmaTest\bin\Debug\SigmaTest.exe.config
+E:\Практикуюсь\SigmaTest\SigmaTest\bin\Debug\SigmaTest.exe
+E:\Практикуюсь\SigmaTest\SigmaTest\bin\Debug\SigmaTest.pdb
+E:\Практикуюсь\SigmaTest\SigmaTest\obj\Debug\SigmaTest.csprojResolveAssemblyReference.cache
+E:\Практикуюсь\SigmaTest\SigmaTest\obj\Debug\SigmaTest.exe
+E:\Практикуюсь\SigmaTest\SigmaTest\obj\Debug\SigmaTest.pdb
